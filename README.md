@@ -70,8 +70,3 @@ Kodu dikkatli kullanın.
 İlan Olunur.
 İrade Halkındır, Karar Elinin Altındadır.
 
-Bu işlemi tamamladığınızda manifestonuz GitHub üzerinde tamamen yayına girmiş olacaktır.
-
-<FollowUp>
-Manifestoyu ekledikten sonra, bu Dijital Meclis fikrinin **teknik veritabanı şemasını** veya **Laravel tabanlı mimari kod yapılarını** aynı depoya eklemek için çalışmalara başlayalım mı?
-</FollowUp>
